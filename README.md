@@ -1,43 +1,50 @@
-# Hi there, I’m Mansha Kalirawna 👋
+# Mansha Kalirawna
 
-I’m an aspiring IT professional with a focus on **Cybersecurity, Networking, and Web Development**.  
-I enjoy exploring operating systems, cloud platforms, and databases, and I’m always learning new technologies.
-
----
-
-## 🔭 Current Focus
-- Cybersecurity fundamentals and network security practices  
-- Web development (UI design, front-end, and back-end basics)  
-- Cloud technologies and identity management  
+Computer Information Systems student at the University of the Fraser Valley (Dean's List, Winter 2025),
+graduating April 2027. Focused on IT support, system administration, and network infrastructure,
+with hands-on experience in Windows Server, Linux, and cybersecurity tooling.
 
 ---
 
-## 🌱 Skills
-
-**Operating Systems:** Windows Server, Linux, Solaris, UNIX  
-**Cloud & Identity:** Microsoft Azure, Active Directory  
-**Networking:** TCP/IP, DHCP, DNS, VPN, LAN/WAN configuration  
-**Databases & DSA:** MySQL, Relational Databases, Data Structures & Algorithms  
-**Development & UI:** User Interface Design, Web Fundamentals  
-**Professional Skills:** Technical Documentation, Task Prioritization, Troubleshooting, Cross-Team Collaboration  
+## Certifications
+- CompTIA A+
+- Fortinet Certified Associate (Cybersecurity)
+- Cisco Introduction to Cybersecurity
+- Microsoft AZ-900 
 
 ---
 
-## 💻 Tech Stack
-C, C++, Python, Java, JavaScript, HTML/CSS, Node.js, React, TailwindCSS, SQL, PowerShell  
-Adobe Suite, Blender, Raspberry Pi, Docker, Linux Terminal, Windows Terminal  
+## Technical Skills
+
+| Area | Tools & Technologies |
+|---|---|
+| Operating Systems | Windows Server, Linux (Ubuntu, Kali) |
+| Cloud & Identity | Microsoft Azure, Active Directory |
+| Networking | TCP/IP, DHCP, DNS, VPN, LAN/WAN, Cisco Packet Tracer |
+| Scripting | PowerShell, Bash |
+| Security | Burp Suite, OWASP ZAP, OWASP Juice Shop |
+| Development | MySQL, JavaScript, HTML, CSS |
 
 ---
 
-## 💬 Fun Fact
-- Hiking and swimming is my go-to-activities. 
-- Enjoy gaming and experimenting with creative tech projects  
+## Featured Projects
+
+### [Web & Wireless Security Lab](https://github.com/ManshaKalirawna/Web-Wireless-Security-Lab)
+Controlled penetration test against a simulated enterprise web application.
+Identified SQL Injection, XSS, and Broken Authentication vulnerabilities using Burp Suite and OWASP ZAP.
+Produced formal reports with proof-of-concept evidence and mitigation recommendations.
+
+### [EduConnect – Online Tutoring Platform](https://github.com/ManshaKalirawna/EduConnect-Online-Tutoring)
+Full-stack web application with MySQL backend, role-based access control, and secure authentication.
+
+### [QuickStart UFV – Employee Onboarding Portal](https://github.com/ManshaKalirawna/QuickStartUFV)
+Responsive internal platform built with HTML, CSS, and JavaScript following accessibility best practices.
 
 ---
 
-## 🌐 Connect with Me
-[LinkedIn](https://ca.linkedin.com/in/mansha-kalirawna-33bb58274) 
+## Contact
+- LinkedIn: [linkedin.com/in/mansha-kalirawna-33bb58274](https://ca.linkedin.com/in/mansha-kalirawna-33bb58274)
+- Email: mansha.kalirawna@student.ufv.ca
 
----
 
 
